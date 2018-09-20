@@ -1,3 +1,7 @@
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247494697&idx=1&sn=484ea8188a26ec5fe142d89ee41d20c5&chksm=fc860d3acbf1842c574e3ad5d029763c188918d489c028078e9b9b29d0bd0d5f4eb5aa29b10c&scene=0#rd
+
+【导读】可以说，对话系统和自然语言处理（NLP）是现代人工智能（AI）中应用最广泛的部分。 尽管NLP研究不断取得进展，但和人相比，今天的大多数对话系统仍然相当原始。 大多数流行的人工智能语音助手，例如Alexa或Google智能助理，只能处理短的对话，但缺乏认知能力，如记忆，规划甚至常识。 我们如何建立一个可重复和可量化的机制，用于在复杂的会话功能中训练AI？ 最近，微软研究院蒙特利尔实验室的研究人员发布了一个名为TextWorld的开源项目，该项目试图使用基于文本的游戏训练强化学习代理。
+
 # TextWorld
 A learning environment sandbox for training and testing reinforcement learning (RL) agents on text-based games.
 
